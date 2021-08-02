@@ -12,3 +12,16 @@ body {
     font-size: 30px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
+#pic{
+  background-image: url("business-man.png");
+  height: 300px;
+  width: 100%;
+  size: 30px;
+  background-repeat: no-repeat;
+
+}
+
+#pic h3{
+  margin-left:400px;
+  color: rgb(26, 50, 185);
+}
