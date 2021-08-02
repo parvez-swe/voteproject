@@ -28,7 +28,7 @@ notAgree="you cant participate the election";
 agree="you can participate in the election";
 
 if(ages>=18){
-    //var id =prompt("Do you have ID Card?<br>Ans:'yes' or 'no':");
+    //var id =prompt("Do you have ID Card? Ans:'yes' or 'no':");
     var ids=id;
     if(ids=="yes"){
          document.getElementById("n").innerHTML=agree;
